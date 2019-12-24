@@ -28,13 +28,13 @@ export default {
         {title:"歌曲",image:"/static/images/1.png"},
         {title:"影视",image:"/static/images/2.png"},
         {title:"综艺",image:"/static/images/3.png"},
-        {title:"行程",image:"/static/images/4.png"}
+        {title:"杂志",image:"/static/images/4.png"}
       ],
       top: [
-        {name:"作品名1",time:"发行时间1",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍1"},
-        {name:"作品名2",time:"发行时间2",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍2"},
-        {name:"作品名3",time:"发行时间3",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍3"},
-        {name:"作品名4",time:"发行时间4",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍4"}
+        {name:"Best Friend",time:"发行时间:2015-10-16",image:"/static/images/BS.jpg",remark:"UNIQ出道一周年纪念单曲"},
+        {name:"Falling in Love",time:"发行时间:2014-10-20",image:"/static/images/FIL.jpg",remark:"韩国出道舞台演绎首支单曲《Falling In Love》"},
+        {name:"抹去你的小伤心",time:"发行时间:2015-11-23",image:"/static/images/MQN.jpg",remark:"美国派拉蒙动画电影《海绵宝宝》中国版主题曲"},
+        {name:"My Dream",time:"发行时间:2016-03-24",image:"/static/images/MD.jpg",remark:"电影《梦想合伙人》片尾曲"}
       ]
     }
   },

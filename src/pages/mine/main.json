@@ -1,5 +1,5 @@
 {
-  "navigationBarTitleText": "我要推荐",
+  "navigationBarTitleText": "我要安利",
   "usingComponents": {
       "i-button": "../../../../static/dist/button/index",
       "i-card": "../../../../static/dist/card/index",

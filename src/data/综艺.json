@@ -1,6 +1,6 @@
 [
-    {"name":"综艺1","time":"发行时间1","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍1"},
-    {"name":"综艺2","time":"发行时间2","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍2"},
-    {"name":"综艺3","time":"发行时间3","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍3"},
-    {"name":"综艺4","time":"发行时间4","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍4"}
+    {"name":"《咱们穿越吧第二季》","time":"发行时间：2016-08-14","image":"/static/images/李汶翰.jpg","remark":"《咱们穿越吧第二季》是由世熙传媒制作，四川卫视、世熙传媒、华谊常升、耀莱影业、捷成世纪、邦视传媒联合出品的国内首档历史体验真人秀。"},
+    {"name":"《花样男团》","time":"发行时间：2016-06-18","image":"/static/images/金圣柱.jpg","remark":"《花样男团》是东方卫视和元纯传媒联手打造的明星旅行纪实真人秀节目。"},
+    {"name":"《show me the money 5》","time":"发行时间：2016-06-03","image":"/static/images/曹承衍.jpg","remark":"《Show Me_The Money》是自2000~2004年< Hiphop the vibe >之后，时隔十多年Mnet电视台在2012年开始制作的一档发掘有实力的Hip-Hop歌手的淘汰制节目。"},
+    {"name":"《天天向上》","time":"发行时间：2016-01-01","image":"/static/images/王一博.jpg","remark":"《天天向上》是湖南卫视推出的娱乐脱口秀节目"}
 ]
