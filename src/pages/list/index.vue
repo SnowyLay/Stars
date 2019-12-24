@@ -1,50 +1,33 @@
 <template>
   <div>
-  <i-grid>
-    <i-grid-item>
-        <i-grid-icon>
-            <image src="/static/images/user.png" />
-        </i-grid-icon>
-        <i-grid-label>歌曲</i-grid-label>
-    </i-grid-item>    
-    <i-grid-item>
-        <i-grid-icon>
-          
-            <image src="/static/images/user.png" />
-        </i-grid-icon>
-        <i-grid-label>影视</i-grid-label>
-    </i-grid-item>
-        <i-grid-item>
-        <i-grid-icon>
-            <image src="/static/images/user.png" />
-        </i-grid-icon>
-        <i-grid-label>综艺</i-grid-label>
-    </i-grid-item>
-        <i-grid-item>
-        <i-grid-icon>
-            <image src="/static/images/user.png" />
-        </i-grid-icon>
-        <i-grid-label>行程</i-grid-label>
-    </i-grid-item>
-  </i-grid>   
+     <i-card v-for="item in list" :key="item" i-class="split" :extra="item.name" :thumb="item.image">
+        <view slot="content">{{item.remark}}</view>
+        <view slot="footer">{{item.time}}</view>
+     </i-card>
   </div>
 </template>
+
 <script>
 export default {
   data () {
     return {
+      list:[]
     }
   },
-
-
+  onLoad (option){
+    this.list = require('@/data/' + option.type + '.json')
+    console.log(this.list)
+  },
   methods: {
     },
    
-
   created () {
   }
 }
 </script>
 
 <style scoped>
+div >>> .split {
+  margin-bottom: 10pt;
+}
 </style>

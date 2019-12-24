@@ -1,8 +1,10 @@
 {
   "pages": [
     "pages/index/main",
-    "pages/list/main",
-    "pages/mine/main"
+    "pages/works/main",
+    "pages/mine/main",
+    "pages/list/main"
+
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -19,18 +21,18 @@
     "list": [{
       "text": "首页",
       "pagePath": "pages/index/main",
-      "iconPath": "static/tabs/home.png",
-      "selectedIconPath": "static/tabs/home-active.png"
+      "iconPath": "static/images/-home.png",
+      "selectedIconPath": "static/images/home.png"
     }, {
       "text": "作品",
-      "pagePath": "pages/list/main",
-      "iconPath": "static/tabs/orders.png",
-      "selectedIconPath": "static/tabs/orders-active.png"
+      "pagePath": "pages/works/main",
+      "iconPath": "static/images/-works.png",
+      "selectedIconPath": "static/images/works.png"
     },{
       "text": "我的",
       "pagePath": "pages/mine/main",
-      "iconPath": "static/tabs/orders.png",
-      "selectedIconPath": "static/tabs/orders-active.png"
+      "iconPath": "static/images/-mine.png",
+      "selectedIconPath": "static/images/mine.png"
     }],
 
     "items": [{
