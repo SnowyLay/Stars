@@ -1,3 +1,7 @@
 {  
-    "navigationBarTitleText": "成员简介"
+    "navigationBarTitleText": "成员简介",
+    "usingComponents": {
+      "i-panel": "../../../static/dist/panel/index",
+      "i-card": "../../../static/dist/card/index"
   }
+}
