@@ -7,12 +7,12 @@
     <open-data type="userNickName"></open-data>
     </view>
     <i-panel title="我是粉丝，我要安利！！！">
-      <i-input :value="name" @change="changeName($event)" title="作品名称" autofocus placeholder="请输入店名" maxlength="20" />
-      <i-input :value="time" @change="changeTime($event)" title="详细地址" placeholder="请输入详细地址" maxlength="30" />
+      <i-input :value="name" @change="changeName($event)" title="作品名称" autofocus placeholder="请输入作品名称" maxlength="20" />
+      <i-input :value="time" @change="changeTime($event)" title="发行时间" placeholder="请输入发行时间" maxlength="30" />
       <i-input :value="reason" @change="changeReason($event)" title="推荐理由" placeholder="请输入推荐理由" maxlength="50" />
     </i-panel>
     <i-button @click="handleClick" type="warning" size="default">我要推荐</i-button>
-    <view class="tips">湖北大学吃货专用小程序，如果你发现附近有好吃的请分享给我们！！！</view>
+    <view class="tips">UNIQ粉丝Unicorn专用小程序，如果你有喜欢的作品请分享给大家！！！</view>
   </div>
 </template>
 
