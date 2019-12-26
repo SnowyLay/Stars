@@ -1,6 +1,6 @@
 [
-    {"name":"Best Friend","time":"发行时间:2015-10-16","image":"/static/images/BS.jpg","remark":"UNIQ出道一周年纪念单曲"},
-    {"name":"Falling in Love","time":"发行时间:2014-10-20","image":"/static/images/FIL.jpg","remark":"韩国出道舞台演绎首支单曲《Falling In Love》"},
-    {"name":"抹去你的小伤心","time":"发行时间:2015-11-23","image":"/static/images/MQN.jpg","remark":"美国派拉蒙动画电影《海绵宝宝》中国版主题曲"},
-    {"name":"My Dream","time":"发行时间:2016-03-24","image":"/static/images/MD.jpg","remark":"电影《梦想合伙人》片尾曲"}
+    {"name":"Best Friend","time":"发行时间:2015-10-16","image":"cloud://uniq-eylru.756e-uniq-eylru-1301004850/BS.jpg","remark":"UNIQ出道一周年纪念单曲"},
+    {"name":"Falling in Love","time":"发行时间:2014-10-20","image":"cloud://uniq-eylru.756e-uniq-eylru-1301004850/FIL.jpg","remark":"韩国出道舞台演绎首支单曲《Falling In Love》"},
+    {"name":"抹去你的小伤心","time":"发行时间:2015-11-23","image":"cloud://uniq-eylru.756e-uniq-eylru-1301004850/MQN.jpg","remark":"美国派拉蒙动画电影《海绵宝宝》中国版主题曲"},
+    {"name":"My Dream","time":"发行时间:2016-03-24","image":"cloud://uniq-eylru.756e-uniq-eylru-1301004850/MD.jpg","remark":"电影《梦想合伙人》片尾曲"}
 ]

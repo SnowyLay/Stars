@@ -62,7 +62,7 @@ export default {
   position: relative;
   width: 750rpx;
   height: 320rpx;
-  color: #666;
+  color: #c078ff;
   display: flex;
   flex-direction: column;
   align-items: center;
